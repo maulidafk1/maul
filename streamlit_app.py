@@ -6,5 +6,5 @@ st.write(
 )
 import streamlit as st
 
-st.subheader("_Welcome_ to the Aplikasi Maul  :sunglasses:")
+st.subheader("_Welcome_ to Aplikasi Maul  :sunglasses:")
 
